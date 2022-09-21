@@ -91,7 +91,7 @@
                 <img src="img/foto kelas.JPG" alt="" class="img-fluid">
             </div>
             <div class="col-lg-5">
-                <h2><span>Be</span> assable </h2>
+                <h2><span>Be</span> assable. </h2>
                 <p>Bekerja dengan suasana hati yang lebih asik, menyenangkan dan mempelajari hal baru setiap harinya.</p>
                 <a href="https://drive.google.com/drive/folders/1H_tRY8xnZ1zo_XGeOCOyjdCdV0dw-ISD" class="btn btn-success tombol">Gallery</a>
             </div>
